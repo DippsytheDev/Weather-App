@@ -14,6 +14,7 @@ An interactive React + TypeScript application that shows 20 random cities on a s
 
 
 ## Hosting Url: 
+https://weather-app-by-akinde.vercel.app
 
 
 
